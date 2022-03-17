@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.farmersplantlearningmanagementsystem">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+    <uses-feature
+        android:name="android.hardware.bluetooth"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FarmersPlantLearningManagementSystem"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".TrainerGradedFarmerTasksActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TrainerTaskFarmerImagesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TrainerTaskFarmersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FarmerUploadTaskImageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WebViewPDFActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Module8PdfViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Module7PdfViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Module6PdfViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Module5PdfViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Module4PdfViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Module3PdfViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Module2PdfViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Module1PdfViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TrainerGradeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TrainerTaskActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TrainerModuleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TrainerProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TrainerHomepageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FarmerGradeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FarmerTaskActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FarmerModuleActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FarmerProfileActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FarmerHomepageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".StartScreenActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TrainerCreateAccount"
+            android:exported="true" />
+        <activity
+            android:name=".TrainerLoginActivity"
+            android:exported="true" />
+        <activity android:name=".FarmerLoginActivity" />
+        <activity
+            android:name=".FirstActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26805555555555555" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_grade.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_homepage.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_login.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_module.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_profile.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_task.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_upload_task_image.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_first.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_module2_pdf_viewer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_module3_pdf_viewer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_module4_pdf_viewer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_module5_pdf_viewer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_module6_pdf_viewer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_module7_pdf_viewer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_module8_pdf_viewer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_pdf_viewer.xml" value="0.18" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_start_screen.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_create_account.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_grade.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_graded_farmer_tasks.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_homepage.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_login.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_module.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_profile.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_task.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_task_farmer_images.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_task_farmers.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_web_view_pdfactivity.xml" value="0.3037037037037037" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_additional_module.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_farmer_image_task.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_farmer_task.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_farmer_view_grades.xml" value="0.33" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_main.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_module.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_task.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_task_farmer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_trainer_feedback.xml" value="0.346875" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/fragment_trainer_view_grades.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/layout/trainer_view_grade.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.275390625" />
+        <entry key="..\:/Users/Kyle-Roy415/Documents/FarmersPlantLearningManagementSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/create_account_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/edit_button_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/finishedtask_button_hover.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/finishedtask_button_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/gawain_button_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/gumawa_button_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/ic_launcher_background.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/marka_button_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/module_button_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/ongoingtask_button_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/profile_button_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/drawable/signin_button_selector.xml" value="0.275390625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout-w1240dp/activity_farmer_task.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.22556894243641232" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_grade.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_homepage.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_login.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_module.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_profile.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_farmer_task.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_first.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_login.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_main.xml" value="0.22848360655737704" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_start_screen.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_create_account.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_grade.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_homepage.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_homepage2.xml" value="0.23565573770491804" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_login.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_module.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_profile.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FarmersPlantLearningManagementSystem/app/src/main/res/layout/activity_trainer_task.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

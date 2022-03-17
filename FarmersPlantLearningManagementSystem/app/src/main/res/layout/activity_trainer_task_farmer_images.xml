@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TrainerTaskFarmerImagesActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/txtvTaskFarmerImageName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="10dp"
+            android:text="Name:" />
+
+        <TextView
+            android:id="@+id/txtvTaskFarmerImageLoc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="10dp"
+            android:text="Location:" />
+
+        <TextView
+            android:id="@+id/txtvTaskFarmerImageBdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="10dp"
+            android:text="Birth date:" />
+
+        <ListView
+            android:id="@+id/lvTaskFarmerImages"
+            android:layout_width="match_parent"
+            android:layout_height="447dp"
+            android:layout_gravity="center">
+
+        </ListView>
+
+        <TextView
+            android:id="@+id/txtvLabelFeedback"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:text="Feedback:" />
+
+        <EditText
+            android:id="@+id/etxtmFeedback"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:ems="10"
+            android:gravity="start|top"
+            android:inputType="textMultiLine"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/btnGradeSubmit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#AB8759"
+            android:text="Send feedback" />
+
+    </LinearLayout>
+
+</LinearLayout>

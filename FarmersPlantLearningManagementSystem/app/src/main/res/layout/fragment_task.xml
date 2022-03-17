@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtvTaskName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="23dp"
+        android:layout_toStartOf="@id/btnDelTaskName"
+        android:text="Task name"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtvTaskCreatedAt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtvTaskName"
+        android:text="Date"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/btnDelTaskName"
+        android:layout_width="52dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/txtvTaskName"
+        android:layout_alignParentRight="true"
+        android:backgroundTint="#CC3232"
+        android:text="X" />
+
+</RelativeLayout>
